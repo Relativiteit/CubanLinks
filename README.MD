@@ -1,4 +1,7 @@
-# Lanchain food recommender 
+# Chonky GenAI Food Recommender 
+
+
+![Alt text](Chonky.png)
 
 A streamlit app for finding the best foods in a city. With the ability to input a food allergy so your recommendations are tailored do your dietary needs. 
 
